@@ -14,7 +14,7 @@ Install npm install sequelize --save
 ## Create Model
 npx sequelize-cli model:generate --name User --attributes firstName:string,lastName:string,email:string
 
-## Create Migration''
+## Create Migration
 npx sequelize migration:generate --name books
 
 ## Run Migration
