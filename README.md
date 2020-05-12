@@ -1,6 +1,6 @@
 # Postgres
 
-''Install Postgres''
+Install Postgres
 
 npm install pg
 psql -U postgres -h localhost
